@@ -1,0 +1,10 @@
+C:\Users\29394379\Desktop\pictureViewerGoryachev\bin\Debug\pictureViewerGoryachev.exe.config
+C:\Users\29394379\Desktop\pictureViewerGoryachev\bin\Debug\pictureViewerGoryachev.exe
+C:\Users\29394379\Desktop\pictureViewerGoryachev\bin\Debug\pictureViewerGoryachev.pdb
+C:\Users\29394379\Desktop\pictureViewerGoryachev\obj\Debug\pictureViewerGoryachev.csproj.AssemblyReference.cache
+C:\Users\29394379\Desktop\pictureViewerGoryachev\obj\Debug\pictureViewerGoryachev.Form1.resources
+C:\Users\29394379\Desktop\pictureViewerGoryachev\obj\Debug\pictureViewerGoryachev.Properties.Resources.resources
+C:\Users\29394379\Desktop\pictureViewerGoryachev\obj\Debug\pictureViewerGoryachev.csproj.GenerateResource.cache
+C:\Users\29394379\Desktop\pictureViewerGoryachev\obj\Debug\pictureViewerGoryachev.csproj.CoreCompileInputs.cache
+C:\Users\29394379\Desktop\pictureViewerGoryachev\obj\Debug\pictureViewerGoryachev.exe
+C:\Users\29394379\Desktop\pictureViewerGoryachev\obj\Debug\pictureViewerGoryachev.pdb
